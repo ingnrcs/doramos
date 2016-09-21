@@ -17,13 +17,13 @@ require 'class/doramas.class.php';
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>CloudingNRCS online gratis en sub español</title>
+  <title>Doramas online gratis en sub español</title>
     <base />
-<meta name="description" content="ver CloudingNRCS online gratis, CloudingNRCStv, ver CloudingNRCS completas en sub español">
-<meta name="keywords" content="CloudingNRCS completas online gratis, viki, wiki drama,estrenos dorama, CloudingNRCS en español online gratis" />
+<meta name="description" content="ver Doramas online gratis, Doramas online, ver Doramas completas en sub español">
+<meta name="keywords" content="Doramas en español completas online gratis, viki, wiki drama,estrenos dorama, Doramas en español online gratis" />
 <meta http-equiv="content-language" content="es"/>
-<meta property="og:description" content="Ecxelente sitio para ver CloudingNRCS gratis" />
-<meta property="og:title" content="Mira tu CloudingNRCS favoritos, Audio latino y sub español 100% gratis!!" />
+<meta property="og:description" content="Ecxelente sitio para ver Doramas gratis" />
+<meta property="og:title" content="Mira tu Doramas favoritos, Audio latino y sub español 100% gratis!!" />
 <meta property="og:image" content="https://i.ytimg.com/vi/FHqDhkpFy9E/maxresdefault.jpg" />
 <meta name="google-site-verification" content="ni8-ivVqOnmmdqr8pHPi_3P9okheztuueNsLFZ_JFoY" />
 <link rel="image_src" href="https://i.ytimg.com/vi/FHqDhkpFy9E/maxresdefault.jpg" />
@@ -38,7 +38,7 @@ require 'class/doramas.class.php';
 <meta content='all, index, follow' name='yahoo-slurp'/>
 <meta content='index, follow' name='msnbot'/>
 <meta content='all' name='googlebot-image'/>
-<meta name='copyright' content='CloudingNRCS Online' />
+<meta name='copyright' content='Doramas Online' />
 <meta name='revisit' content='1 days' />
   <link rel="stylesheet" type="text/css" href="wp-content/themes/sebastian/css/reset.css"/>
   <link rel="stylesheet" type="text/css" href="wp-content/themes/sebastian/mt.min.css"/>
@@ -57,7 +57,7 @@ require 'class/doramas.class.php';
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-83223006-2', 'auto');
+  ga('create', 'UA-84479803-2', 'auto');
   ga('send', 'pageview');
 
 </script>
@@ -74,15 +74,6 @@ require 'class/doramas.class.php';
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.4.3" />
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-45182606-7', 'auto');
-  ga('send', 'pageview');
-</script>
    <script>
     $(function() {
         var btn_movil = $('#nav-mobile'),
@@ -147,7 +138,7 @@ border: 1px solid #13a9ff;
 ?>
 <div class="it_header">
 
-<h1>Buscar CloudingNRCS</h1>
+<h1>Buscar Doramas</h1>
 <div class="buscador">
 <form method="get" id="searchform" action="">
 <input type="text" name="buscarp" id="s" placeholder="Buscar.." value="">
@@ -155,7 +146,7 @@ border: 1px solid #13a9ff;
 </div></div>
 <div class="notes" style="background: #F71863;">
 <p>
-CloudingNRCS completas en sub español</p>
+Doramas completas en sub español</p>
 </div>
 
 <div class="it_header">
@@ -220,7 +211,7 @@ CloudingNRCS completas en sub español</p>
 <div class="header_slider">
 
 <div class="it_header">
-<h1>CloudingNRCS Online</h1>
+<h1>Doramas Online</h1>
 
 </div>
 </div>
@@ -282,7 +273,7 @@ CloudingNRCS completas en sub español</p>
 <span class="copy">
 <A HREF="aviso_legal.php" target="_blank"><B>AVISO LEGAL</B></A> |
 <A HREF="Terminos_y_Condiciones.php" target="_blank"><B>Terminos y Condiciones</B></A> |
-<B>CloudingNRCS</B> &copy; 2016 All rights reserved</span>
+<B>Doramas</B> &copy; 2016 All rights reserved</span>
 <span class="brand">
 Impulsado por  
 <A HREF="#" target="_blank"><B>CCRV</B></A> & 
