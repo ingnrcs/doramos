@@ -292,10 +292,10 @@ while ($array=mysql_fetch_array($capitulos)){
 </div>
 <!-- botones sociales -->
 <div class="soci">
-<a class="fb" href="javascript: void(0);" onclick="window.open ('http://www.facebook.com/sharer.php?u=http://www.doramasonline.net/<?=Doramas::getCat($datos['category'])?>/<? echo $datos['url'] ?>', 'Facebook', 'toolbar=0, status=0, width=650, height=450');"><b class="icon-facebook3"></b> Compartir</a>
-<a class="tw" href="javascript: void(0);" onclick="window.open ('https://twitter.com/intent/tweet?text=<? echo $datos[nombre]; ?>&url=http://www.doramasonline.net/<?=Doramas::getCat($datos['category'])?>/<? echo $datos['url'] ?>', 'Twitter', 'toolbar=0, status=0, width=650, height=450');" data-rurl="http://www.doramasonline.net/<?=Doramas::getCat($datos['category'])?>/<? echo $datos['url'] ?>"><b class="icon-twitter3"></b> Twittear</a>
+<a class="fb" href="javascript: void(0);" onclick="window.open ('http://www.facebook.com/sharer.php?u=http://www.doramasonline.com.ve/<?=Doramas::getCat($datos['category'])?>/<? echo $datos['url'] ?>', 'Facebook', 'toolbar=0, status=0, width=650, height=450');"><b class="icon-facebook3"></b> Compartir</a>
+<a class="tw" href="javascript: void(0);" onclick="window.open ('https://twitter.com/intent/tweet?text=<? echo $datos[nombre]; ?>&url=http://www.doramasonline.net/<?=Doramas::getCat($datos['category'])?>/<? echo $datos['url'] ?>', 'Twitter', 'toolbar=0, status=0, width=650, height=450');" data-rurl="http://www.doramasonline.com.ve/<?=Doramas::getCat($datos['category'])?>/<? echo $datos['url'] ?>"><b class="icon-twitter3"></b> Twittear</a>
 
-<div class="fb-comments" data-href="http://www.doramasonline.net/ver-dorama/<? echo $datos['url'] ?>" data-num-posts="10" data-width="100%"></div>
+<div class="fb-comments" data-href="http://www.doramasonline.com.ve/ver-dorama/<? echo $datos['url'] ?>" data-num-posts="10" data-width="100%"></div>
 	</div>
 <!-- comentarios -->
 	
@@ -383,7 +383,7 @@ Impulsado por
 </div>
 
 <div class="links">
-<h3>CLOUDINGNRCS Relacionados<span class="icon-sort"></span></h3>
+<h3>Doramas Relacionados<span class="icon-sort"></span></h3>
 <ul class="scrolling lista">
 
 
@@ -407,10 +407,6 @@ $novelas = mysql_query("SELECT * FROM novelas_titulos ORDER BY rand() LIMIT 60",
 
 
 </div>
-<script type='text/javascript' src='http://www.doramasonline.net/wp-content/plugins/akismet/_inc/form.js?ver=3.1.7'></script>
-
-<script type='text/javascript' src='http://www.doramasonline.net/wp-content/plugins/wp-mega-menu/js/wpmm.js?ver=1.1.2'></script>
-<script type='text/javascript' src='http://www.doramasonline.net/wp-includes/js/wp-embed.min.js?ver=4.4.3'></script>
 <script src="http://www.doramasonline.net/wp-content/themes/sebastian/js/main.js"></script>
 <script>
 var ias = $.ias({
