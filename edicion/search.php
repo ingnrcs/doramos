@@ -77,7 +77,7 @@ $(document).ready(function(){
   });
 });
 function g(){
-  location.href='http://doramasgratis.com/search/' + $('input[name=q]').val().replace(/\s/g, '-');
+  location.href='http://doramasonline.com.ve/' + $('input[name=q]').val().replace(/\s/g, '-');
 }
 </script>
 </head>
@@ -87,7 +87,7 @@ function g(){
 
 
 <div id="centrador">
-<div id="cabezera"><a href="http://www.doramasgratis.com"><img src="/img/logo.png" alt="enelvideo" width="230" height="170" border="0"/></a>
+<div id="cabezera"><a href="http://www.doramasonline.com.ve"><img src="/img/logo.png" alt="Doramas online" width="230" height="170" border="0"/></a>
 <!--Copy and paste the code below into the location on your website where the ad will appear.-->
 <div class="cc fleft"><div class="ctit">Doramas por Género:</div><div class="ccon">
 <div id="genuno">
@@ -192,7 +192,7 @@ if(!empty($_REQUEST['q'])){
              ?>
 								<div class="result-post clearfix">
 					<img src="<?=Doramas::getCover($row[5])?>">
-					<h3><a href="http://doramasgratis.com/<?=Doramas::getCat($row[4])?>/<?=$row[0]?>"><?=str_replace($_REQUEST['q'], '<span>'.htmlspecialchars($_REQUEST['q']).'</span>', $row[2])?></a></h3>
+					<h3><a href="http://doramasonline.com.ve/<?=Doramas::getCat($row[4])?>/<?=$row[0]?>"><?=str_replace($_REQUEST['q'], '<span>'.htmlspecialchars($_REQUEST['q']).'</span>', $row[2])?></a></h3>
 					<p>
 						<?=(strlen($row[1]) > 97 ? substr($row[1], 0, 97).'...' : $row[1])?>				</p>
 					<div class="points">

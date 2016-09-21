@@ -13,7 +13,7 @@ if(!isAdmin()) die;
 // by Alan98
 function fetchChapts(id){
     $('.panel').slideDown(400);
-    $.getJSON('/estrelladg2/novels-fetch.php', 'id=' + id, function(e){
+    $.getJSON('/edicion/novels-fetch.php', 'id=' + id, function(e){
       if(e.status !== 1) { alert(e.data); return; }
       $('center').slideUp(400);
       $('.Caps').html(e.data);

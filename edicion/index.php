@@ -33,7 +33,7 @@ if(!isAdmin()){
             </div>
         </div>
     </div>
-<? die; } if(isset($_GET['logouT'])) { deleteSession(); die('<script>window.location=\'/doramos/estrelladg2\';</script>'); }?>
+<? die; } if(isset($_GET['logouT'])) { deleteSession(); die('<script>window.location=\'/doramos/edicion\';</script>'); }?>
         <div lass="span9">
 <div class="stats">
     <p class="stat"><span class="number"><?=mysql_num_rows(mysql_query('SELECT id FROM novelas_capitulos'))?></span>Capitulos</p>

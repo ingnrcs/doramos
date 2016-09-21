@@ -36,6 +36,6 @@ if(isset($_GET['obj']) && isset($_GET['id']) && ctype_digit($_GET['id'])) {
 
 }
 
-header('Location: /estrelladg2/?'.(!empty($_GET['obj']) && $_GET['obj'] == 'nov' ? 'nov=true' : 'cap=true'));
+header('Location: /edicion/?'.(!empty($_GET['obj']) && $_GET['obj'] == 'nov' ? 'nov=true' : 'cap=true'));
 
 ?>
